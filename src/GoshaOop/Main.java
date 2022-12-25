@@ -27,10 +27,7 @@ class Personality {
         System.out.println("hello " + name);
     }
 
-    public Personality(int h) {
 
-        height = h;
-    }
 
     public Personality(String name) {
 
